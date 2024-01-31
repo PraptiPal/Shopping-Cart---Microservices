@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CartService/CartService/CartService.iml" filepath="$PROJECT_DIR$/../CartService/CartService/CartService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CatalogService/CatalogService.iml" filepath="$PROJECT_DIR$/CatalogService/CatalogService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConfigServer/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/../ConfigServer/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CustomerService/CustomerService/CustomerService.iml" filepath="$PROJECT_DIR$/../CustomerService/CustomerService/CustomerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InventoryService/InventoryService/InventoryService.iml" filepath="$PROJECT_DIR$/../InventoryService/InventoryService/InventoryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OrderService/OrderService/OrderService.iml" filepath="$PROJECT_DIR$/../OrderService/OrderService/OrderService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/ServiceRegistry.iml" filepath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/ServiceRegistry.iml" />
+    </modules>
+  </component>
+</project>
